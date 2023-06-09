@@ -1,3 +1,4 @@
 # Misiones
 
-Investigar los planes del Dr. Octopus
+* Investigar los planes del Dr. Octopus
+* Capturar al Duende Verde
