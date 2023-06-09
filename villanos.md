@@ -4,3 +4,4 @@
 * Duende Verde
 * Joker
 * Venom
+* Capitan America
